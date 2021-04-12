@@ -1,4 +1,4 @@
-// Write your code here! 
+// Write your code here!
 // Write your code here!
 
 // var element = document.createElement('div');
@@ -6,7 +6,7 @@
 
 // var ul = document.createElement('ul');
 
-// for (let i = 0; i < 3; i++) 
+// for (let i = 0; i < 3; i++)
 //     {
 //     let li = document.createElement('li');
 //     li.innerHTML = (i + 1).toString();
